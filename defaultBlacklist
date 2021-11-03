@@ -1,0 +1,2 @@
+'html', 'ul', 'aside', 'form', 'br', 'div', 'title', 'h1', 'body', 'figure', 'main', 'h3', 'article', 'strong', 'p', 'noscript', 'ol', 'header', 'em', 'section', 'span', 'li', 'blockquote', 'footer', 'nav', '[document]', 'h4', 'label', 'meta', 'h5', 'link', 'head', 'style', 'script', 'h6', 'input', 'h2', 'time'
+    # there may be more elements you don't want, such as "style", etc.
